@@ -7,7 +7,7 @@ import Pagination from './Pagination.js';
 
 
 const apiKey = '9eddd39329744673ae4decd80dbb8d7f';
-const apiUrl = `https://newsapi.org/v2/everything?q=tesla&from=2023-06-27&sortBy=publishedAt&apiKey=${apiKey}`;
+const apiUrl = `https://newsapi.org/v2/everything?q=apple&from=2024-08-02&to=2024-08-02&sortBy=popularity&apiKey=${apiKey}`;
 
 function App() {
   
